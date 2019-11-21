@@ -14,11 +14,14 @@
 
         <div>
             <ul class="topnav">
-                <li><a class="active" href="Accueil.html">Accueil</a></li>
-                <li><a href="presentation.html">Présentation</a></li>
+                <li><a class="active" href="index.php">Accueil</a></li>
+                <li><a href="presentation.php">Suggestions</a></li>
                 <li><a href="api.php">Questionnaire</a></li>
                 <li><a href="game.php">Jeu</a></li>
                 <li><a class="right" href="form.php">Formulaire</a></li>
             </ul>
+        </div>
+
+    
 
     </header>
